@@ -1,0 +1,1 @@
+Adding untested STEP and STL files for the case that was created using FUSION360. Print at your own risk. I am still waiting for my Cheapis pcb to be printed.
